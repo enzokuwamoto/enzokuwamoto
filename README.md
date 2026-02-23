@@ -1,8 +1,9 @@
 ## Olá, pessoal! 👋
 ### Enzo Kuwamoto aqui :)
-Desenvolvedor de Software e apaixonado por tecnologia. Atualmente focando na transição de carreira, já trabalhei com logística, varejo, indústria e por ai vai...
+Desenvolvedor de Software e apaixonado por tecnologia.
+Atualmente focando na transição de carreira, já trabalhei com logística, varejo, indústria e por ai vai...
 
-- 👨🏻‍💻 **Estudante** de Análise e Desenvolvimento de Dados na [FATEC Mogi das Cruzes](https://www.fatecmogidascruzes.com.br/)
+- 👨🏻‍💻 **Estudante** do 4º semestre de Análise e Desenvolvimento de Dados na [FATEC Mogi das Cruzes](https://www.fatecmogidascruzes.com.br/)
 - 🧗🏼 Apaixonado por **esportes ao ar livre**
 - 🖥️ Atualmente mais focado em:
 <p align="center">
