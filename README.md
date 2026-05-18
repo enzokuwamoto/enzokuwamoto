@@ -2,7 +2,7 @@
 ### Enzo Kuwamoto aqui :)
 Desenvolvedor de Software e apaixonado por tecnologia.
 
-- 👨🏻‍💻 **Estudante** do 4º semestre de Análise e Desenvolvimento de Dados na [FATEC Mogi das Cruzes](https://www.fatecmogidascruzes.com.br/)
+- 👨🏻‍💻 **Estudante** do 4º semestre de Análise e Desenvolvimento de Sistemas na [FATEC Mogi das Cruzes](https://www.fatecmogidascruzes.com.br/)
 - 🧗🏼 Apaixonado por **esportes ao ar livre**
 - 🖥️ Atualmente mais focado em:
   
